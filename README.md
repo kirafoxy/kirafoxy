@@ -34,7 +34,7 @@ My name is Kira Fox!
 I am a beginner front-end developer in Moscow 🌆
 
  - 💻Currently, I am learning everything that interests me to create - for my convenience or for beauty in this world of technology,
- - :zap: In my free time, I draw pictures, play sports, read books and watch anime, create tattoo`s
+ - :zap: In my free time, I draw pictures, play sports, read books and watch anime, create tattoos
  - 🔥 Tattoo artist - I have been drawing sketches and doing tattoos for over five years,
  - 😹 Fun fact: I can look very confident while remaining a stupid little pie inside... but I still try to become an awesome specialist ☝️
 

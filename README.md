@@ -14,9 +14,9 @@
   <a href="https://t.me/ashy_fox">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
-  <a href="https://www.figma.com/files/recents-and-sharing/recently-viewed?fuid=1249389367954757054">
+<!--   <a href="https://www.figma.com/files/recents-and-sharing/recently-viewed?fuid=1249389367954757054">
     <img src="https://img.shields.io/badge/Figma-purple?style=for-the-badge&logo=figma&logoColor=white" alt="buymeabeer"/>
-  </a>
+  </a> -->
 
 
 </div>

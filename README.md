@@ -29,7 +29,7 @@
 
 ### :woman_technologist: About Me :
 My name is Kira Fox!
-I am a beginner front-end developer in Moscow 🌆
+I am a front-end developer in Moscow 🌆
 
  - 💻Currently, I am learning everything that interests me to create - for my convenience or for beauty in this world of technology,
  - :zap: In my free time, I draw pictures, play sports, read books and watch anime, create tattoos
@@ -43,8 +43,11 @@ I am a beginner front-end developer in Moscow 🌆
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/icons/laravel/laravel-original.svg" title="Git" **alt="Git" width="40" height="40"/>
+   <img src="https://github.com/devicons/devicon/icons/mariadb/mariadb-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+   <img src="https://github.com/devicons/devicon/icons/php/php-original.svg" title="Git" **alt="Git" width="40" height="40"/>
 
- 
   
 </div>
  
